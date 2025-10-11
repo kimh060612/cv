@@ -32,24 +32,17 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/teaching/";
           },
         },{id: "nav-people",
           title: "people",
@@ -440,16 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/cv/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/cv/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-excited-to-share-that-our-paper-on-3d-semantic-scene-graph-prediction-has-been-accepted-to-neurips-2025-poster-co-first-author",
+          title: '🚀 Excited to share that our paper on 3D Semantic Scene Graph Prediction...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -501,35 +486,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6B%69%6D%68%30%36%30%36%31%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/kimh060612", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/cv/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0003-3991-6932", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=GbPJGeIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
