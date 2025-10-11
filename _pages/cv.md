@@ -9,3 +9,5 @@ description:
 toc:
   sidebar: left
 ---
+
+\* denotes equal contribution
