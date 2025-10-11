@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "GiHyeon Kim",
+    "label": "Undergraduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kimh060618@gmail.com",
+    "phone": "(+82) 10-4062-0460",
+    "url": "https://kimh060612.github.io",
+    "summary": "Undergraduate Intern of Visual Science Lab, KyungHee University",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

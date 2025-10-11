@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-9-18 22:30:00+0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🚀 Excited to share that our paper on **3D Semantic Scene Graph Prediction** has been **accepted to NeurIPS 2025 (Poster)**! (co-first author)✨
