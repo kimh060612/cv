@@ -18,8 +18,7 @@ Also, I engineered a perception stack for a **custom robot**, integrating **ORB-
 I containerized the full pipeline as **Docker images** for reproducible deployment and released the code on [**GitHub**](https://github.com/orgs/DR4R/repositories).
 This work focused on reliable on-robot performance and a clean developer workflow.
 
-Github Link: https://github.com/orgs/DR4R/repositories
-DockerHub Link: https://hub.docker.com/repository/docker/michaelkim0606/orbslam3_wrapper/general
+[DockerHub Link](https://hub.docker.com/repository/docker/michaelkim0606/orbslam3_wrapper/general)
 
 ## Lecture Materials
 
