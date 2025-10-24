@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of work and study projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/projects/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -60,51 +67,16 @@ ninja.data = [{
             },},{id: "news-excited-to-share-that-our-paper-on-3d-semantic-scene-graph-prediction-has-been-accepted-to-neurips-2025-poster-co-first-author",
           title: '🚀 Excited to share that our paper on 3D Semantic Scene Graph Prediction...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-slam-lecture-for-dr4r-lab",
+          title: 'SLAM Lecture for DR4R Lab',
+          description: "Delivered a comprehensive SLAM lecture for the non-profit robotics research group DR4R Lab",
           section: "Projects",handler: () => {
               window.location.href = "/cv/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-unknown-area-anticipation-for-embodied-agent-navigation",
+          title: 'Unknown Area Anticipation for Embodied Agent Navigation',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/cv/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/cv/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -124,7 +96,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/gihyeon-kim-a684a1209", "_blank");
+          window.open("https://www.linkedin.com/in/gihyeon-‍kim-a684a1209", "_blank");
         },
       },{
         id: 'social-orcid',
