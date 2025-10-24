@@ -2,7 +2,7 @@
 layout: page
 title: SLAM Lecture for DR4R Lab
 description: Delivered a comprehensive SLAM lecture for the non-profit robotics research group DR4R Lab
-img: assets/img/12.jpg
+img: assets/img/SLAM_Lecture_Overview.png
 importance: 1
 category: study
 related_publications: true
