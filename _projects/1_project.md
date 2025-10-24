@@ -10,9 +10,16 @@ related_publications: true
 
 ## Project Descriptions
 
-Led a study and seminar series on Visual SLAM at DR4R Lab, a non-profit robotics research group under ModuLabs.
+I led a study and seminar series on Visual SLAM at DR4R Lab, a non-profit robotics research group under ModuLabs.
 Based on the open-source material [SLAM Book](https://github.com/gaoxiang12/slambook-en), I presented the studied contents and uploaded recorded lectures on YouTube.
 The following [GitHub repository](https://github.com/kimh060612/DR4R-SLAM-Example) contains SLAM examples I personally implemented during the study.
+
+Also, I engineered a perception stack for a **custom robot**, integrating **ORB-SLAM** for localization and **YOLOv5** for real-time object detection.
+I containerized the full pipeline as **Docker images** for reproducible deployment and released the code on [**GitHub**](https://github.com/orgs/DR4R/repositories).
+This work focused on reliable on-robot performance and a clean developer workflow.
+
+Github Link: https://github.com/orgs/DR4R/repositories
+DockerHub Link: https://hub.docker.com/repository/docker/michaelkim0606/orbslam3_wrapper/general
 
 ## Lecture Materials
 
