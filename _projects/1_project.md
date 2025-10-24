@@ -5,7 +5,7 @@ description: Delivered a comprehensive SLAM lecture for the non-profit robotics 
 img: assets/img/SLAM_Lecture_Overview.png
 importance: 1
 category: study
-related_publications: true
+related_publications: false
 ---
 
 ## Project Descriptions

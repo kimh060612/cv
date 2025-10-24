@@ -5,7 +5,6 @@ description: a project with a background image and giscus comments
 img: assets/img/Uncertain_Anticipate_Overview.png
 importance: 2
 category: study
-giscus_comments: true
 ---
 
 ## Project Descriptions
