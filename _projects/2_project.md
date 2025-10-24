@@ -1,14 +1,41 @@
 ---
 layout: page
-title: project 2
+title: Unknown Area Anticipation for Embodied Agent Navigation
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: study
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
+## Project Descriptions
+
+I explore **Object-Goal Navigation (OGN)** and **Multiple Object-Goal Navigation (M-OGN)** and propose practical ideas that improve **goal-conditioned exploration** and **object-centric planning**.
+
+In a recent study, some components did not meet target performance, but the project surfaced **actionable insights** on curriculum scheduling, sub-goal discovery, and memory for multi-goal tasks. I am conducting a **post-mortem analysis** to consolidate these findings into a more robust pipeline.
+
+Github Link: https://github.com/kimh060612/MultiON-VAE.git
+
+
+## Project Details
+
+The core idea of this project is following: 
+
+- This project departs from the idea that “**If embodied agent can anticipate the unseen area of environment, they can efficiently navigate through goal point**”
+    - We proposed Conditional VAE model to anticipate unseen area of Top-Down BEV map.
+    - We proposed novel reward function for agents to actively explore the unseen area.
+- However, this idea fails due to reasons below:
+    - We failed to collect well-define 2D Top-Down map data with given time and resources.
+    - There is certain noise in MP3D dataset and we failed to deal with that.
+    - To resolve this problem, we need to use more photo-realistic dataset such as Proc-THOR or HM3D.
+
+## Materials
+
+link: https://drive.google.com/file/d/1AIUGAnyrQfZeitUfmWJIs_LNwwiaiPUp/view?usp=sharing
+
+
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +105,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
