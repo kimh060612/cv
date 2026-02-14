@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "GiHyeon Kim",
-    "label": "Undergraduate Student",
+    "label": "Research Internship",
     "image": "",
     "email": "kimh060618@gmail.com",
     "phone": "(+82) 10-4062-0460",
     "url": "https://kimh060612.github.io",
-    "summary": "Undergraduate Intern of Visual Science Lab, KyungHee University",
+    "summary": "Research Intern of AIoT Lab, Seoul National University",
     "location": {
-      "address": "6, Maeyeong-ro 398beon-gil, Yeongtong-gu",
-      "postalCode": "16702",
-      "city": "Suwon-si",
+      "address": "24-10 Haengun 5-gil, Gwanak-gu",
+      "postalCode": "08740",
+      "city": "Seoul",
       "countryCode": "KOR",
-      "region": "Gyeonggi-do"
+      "region": "Seoul"
     },
     "profiles": [
       {
@@ -24,11 +24,20 @@
   },
   "work": [
     {
+      "name": "Research Internship in AIoT Lab",
+      "position": "Research Intern",
+      "url": "https://aiot.snu.ac.kr/",
+      "startDate": "2026-02-19",
+      "endDate": "Ongoing...",
+      "summary": "Conducted research on Adaptive Perception System for Physical AI",
+      "highlights": ["Adaptive Sensing", "Artificial Tripartite Intelligence", "Physical AI"]
+    },
+    {
       "name": "Undergraduate Internship in Visual Science Lab",
       "position": "Undergraduate Intern",
       "url": "https://vslab.khu.ac.kr/vslab",
       "startDate": "2024-04-01",
-      "endDate": "2026-02-28",
+      "endDate": "2026-02-18",
       "summary": "Conducted research on robust 3D perception, Embodied AI, etc...",
       "highlights": ["3D Semantic Scene Graph", "Semantic Mapping", "Object-Goal Navigation"]
     },
@@ -70,7 +79,7 @@
       "startDate": "2019-03-01",
       "endDate": "2026-02-28",
       "score": "10",
-      "courses": ["Robot-Vision Track", "GPA: 4.09/4.3", "Full-Scholarship"]
+      "courses": ["Robot-Vision Track", "GPA: 4.07/4.3 (Summa Cum Laude)", "Full-Scholarship"]
     }
   ],
   "awards": [
@@ -83,6 +92,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Revisiting Object-Centric Learning for Long-Tailed 3D Semantic Scene Graph Prediction",
+      "publisher": "GiHyeon Kim, KunHo Heo, SuYeon Kim, MyeongAh Cho",
+      "releaseDate": "2026-02-12",
+      "url": "",
+      "summary": "Under Review..."
+    },
     {
       "name": "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction",
       "publisher": "KunHo Heo*, GiHyeon Kim*, SuYeon Kim, MyeongAh Cho",
@@ -171,7 +187,7 @@
       "name": "3D Scene Understanding",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "3D Scene Graph",
+        "3D/4D Scene Graph",
         "3D Gaussian Splatting",
         "4D Gaussian Splatting"
       ]
@@ -182,7 +198,9 @@
       "keywords": [
         "Visual SLAM",
         "3D Reconstruction",
-        "Semantic Mapping"
+        "Semantic Mapping",
+        "Adaptive Sensing",
+        "Artificial Tripartite Intelligence"
       ]
     }
   ]
