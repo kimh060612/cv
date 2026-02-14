@@ -29,7 +29,6 @@ latest_posts:
 
 I am an research intern at the [AIoT Lab](https://aiot.snu.ac.kr/), Seoul National University, supervised by **Prof. HyungShin Kim**. My research interests lie in **robust and efficient 3D perception systems** for intelligent robots — including **3D scene representation**, **Sensor Adaptation**, and **Physical AI**.
 
-Since 2019, I have explored a broad range of software development areas, from **deep learning–based applications** to **end-to-end DL service deployment systems**, and have led several interdisciplinary projects successfully.  
+Since 2019, I have explored a broad range of software development areas, from **deep learning–based applications** to **end-to-end DL service deployment systems**, and have led several interdisciplinary projects successfully.
 
-Currently, I am focusing on building **object-centric 3D scene understanding frameworks** (such as *3D scene graphs* and *3D Gaussian Splatting*) with **adaptive sensing system** to bridge perception and planning for embodied intelligence.
-
+Currently, I am focusing on building **object-centric 3D scene understanding frameworks** (such as _3D scene graphs_ and _3D Gaussian Splatting_) with **adaptive sensing system** to bridge perception and planning for embodied intelligence.

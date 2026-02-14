@@ -126,33 +126,19 @@
       "name": "Programming Language",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Javascript/Typescript",
-        "Go"
-      ]
+      "keywords": ["Python", "C/C++", "Javascript/Typescript", "Go"]
     },
     {
       "name": "Deep Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Pytorch",
-        "Tensorflow",
-        "ONNX"
-      ]
+      "keywords": ["Pytorch", "Tensorflow", "ONNX"]
     },
     {
       "name": "Others",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Docker",
-        "AWS",
-        "SQL/NoSQL",
-        "Docker Swarm"
-      ]
+      "keywords": ["Docker", "AWS", "SQL/NoSQL", "Docker Swarm"]
     }
   ],
   "languages": [
@@ -176,32 +162,17 @@
     {
       "name": "Embodied AI",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Object-Goal Navigation",
-        "Instance-Goal Navigation",
-        "Language-Grounded Task Planning",
-        "Language-Grounded Robot Navigation"
-      ]
+      "keywords": ["Object-Goal Navigation", "Instance-Goal Navigation", "Language-Grounded Task Planning", "Language-Grounded Robot Navigation"]
     },
     {
       "name": "3D Scene Understanding",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "3D/4D Scene Graph",
-        "3D Gaussian Splatting",
-        "4D Gaussian Splatting"
-      ]
+      "keywords": ["3D/4D Scene Graph", "3D Gaussian Splatting", "4D Gaussian Splatting"]
     },
     {
       "name": "3D Perception",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Visual SLAM",
-        "3D Reconstruction",
-        "Semantic Mapping",
-        "Adaptive Sensing",
-        "Artificial Tripartite Intelligence"
-      ]
+      "keywords": ["Visual SLAM", "3D Reconstruction", "Semantic Mapping", "Adaptive Sensing", "Artificial Tripartite Intelligence"]
     }
   ]
 }

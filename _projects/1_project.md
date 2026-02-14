@@ -23,7 +23,7 @@ This work focused on reliable on-robot performance and a clean developer workflo
 ## Lecture Materials
 
 - [Lecture 1](https://drive.google.com/file/d/1mPwtKh9h6U532If2x44FgpGwPZMAdmU4/view?usp=sharing)
-- [Lecture 2](https://drive.google.com/file/d/1iiZTMmVXsLD6hYtnrr0-YekKVwIKR7zp/view?usp=sharing) 
+- [Lecture 2](https://drive.google.com/file/d/1iiZTMmVXsLD6hYtnrr0-YekKVwIKR7zp/view?usp=sharing)
 - [Lecture 3](https://drive.google.com/file/d/1Ov97MErIBaTe_HGiYwoUBxyn890aUdae/view?usp=sharing)
 - [Lecture 4](https://drive.google.com/file/d/1RQcmS16UDXWZNQbFwarUEtMaAEdwSUJB/view?usp=sharing)
 - [Lecture 5](https://drive.google.com/file/d/11o6nXSgRc6WijuFGrboWkkKTlaY1H_rB/view?usp=sharing)
@@ -31,9 +31,8 @@ This work focused on reliable on-robot performance and a clean developer workflo
 - [Lecture 6 Part.B](https://drive.google.com/file/d/1PAi8OZXA6f6wVi0lfvVtYX-BQzQKx-gA/view?usp=sharing)
 - [Lecture 7](https://drive.google.com/file/d/1uawpA7-PdCxdErnhFueeVCSrAHlszsWq/view?usp=sharing)
 - [Lecture 8](https://drive.google.com/file/d/1lA-5aLjBAAgL7JN-G2wftfhzpA5Z6Iy-/view?usp=sharing)
-- [Lecture 9](https://drive.google.com/file/d/1YPw1Ydz_zm88vso2D23OInyHs2eUUgHE/view?usp=sharing) 
-- [Lecture 10~11](https://drive.google.com/file/d/12IefmT9xPUj1lE3zg-0sGC4IGbMK1hN4/view?usp=sharing) 
-
+- [Lecture 9](https://drive.google.com/file/d/1YPw1Ydz_zm88vso2D23OInyHs2eUUgHE/view?usp=sharing)
+- [Lecture 10~11](https://drive.google.com/file/d/12IefmT9xPUj1lE3zg-0sGC4IGbMK1hN4/view?usp=sharing)
 
 ## YouTube Links
 
