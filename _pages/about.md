@@ -31,4 +31,4 @@ I am an research intern at the [AIoT Lab](https://aiot.snu.ac.kr/), Seoul Nation
 
 Since 2019, I have explored a broad range of software development areas, from **deep learning–based applications** to **end-to-end DL service deployment systems**, and have led several interdisciplinary projects successfully.
 
-Currently, I am focusing on building **object-centric 3D scene understanding frameworks** (such as _3D scene graphs_ and _3D Gaussian Splatting_) with **adaptive sensing system** to bridge perception and planning for embodied intelligence.
+Currently, I am focusing on building **3D scene understanding frameworks** with **adaptive sensing system** to bridge perception and planning for embodied intelligence.
